@@ -1,6 +1,6 @@
 ![Package Logo](https://banners.beyondco.de/Laravel%20Authentication%20Log.png?theme=light&packageManager=composer+require&packageName=publiux%2Flaravel-authentication-log&pattern=architect&style=style_1&description=Log+user+authentication+details+and+send+new+device+notifications&md=1&showWatermark=1&fontSize=100px&images=lock-closed)
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/rappasoft/laravel-authentication-log.svg?style=flat-square)](https://packagist.org/packages/rappasoft/laravel-authentication-log)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/publiux/laravel-authentication-log.svg?style=flat-square)](https://packagist.org/packages/publiux/laravel-authentication-log)
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/rappasoft/laravel-authentication-log/run-tests?label=tests)](https://github.com/rappasoft/laravel-authentication-log/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/rappasoft/laravel-authentication-log/Check%20&%20fix%20styling?label=code%20style)](https://github.com/rappasoft/laravel-authentication-log/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/rappasoft/laravel-authentication-log.svg?style=flat-square)](https://packagist.org/packages/rappasoft/laravel-authentication-log)
