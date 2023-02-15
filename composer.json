@@ -6,7 +6,7 @@
         "laravel",
         "laravel-authentication-log"
     ],
-    "homepage": "https://github.com/rappasoft/laravel-authentication-log",
+    "homepage": "https://github.com/publiux/laravel-authentication-log",
     "license": "MIT",
     "authors": [
         {
